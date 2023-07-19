@@ -15,8 +15,8 @@ include_once $project_path.'common/head.php';
                 <img src="./images/card-img3.png">
             </div>
             <div class="card-content">
-                <h2>How to Deploy Angular App to Google Play Store? Complete Guide</h2>
-                <p>From shift in priorities to new approaches to sourcing talent, check out four of the top staff augmentation & outsourcing trends in 2023.</p>
+            <a href="Blog1.php" ><h2> Power of Blockchain: Transforming Industries Beyond CryptocurrencyThe Disruptive</h2></a>
+                <p>Blockchain technology has emerged as a transformative force, revolutionizing various industries beyond its association with </p>
                 <div class="date mt-4 mb-3">
                     <span>17 jan 2023</span> 
                 </div>
@@ -27,8 +27,8 @@ include_once $project_path.'common/head.php';
                 <img src="./images/card-img2-728x419.png">
             </div>
             <div class="card-content">
-                <h2>How to Deploy Angular App to Google Play Store? Complete Guide</h2>
-                <p>From shift in priorities to new approaches to sourcing talent, check out four of the top staff augmentation & outsourcing trends in 2023.</p>
+                <h2>Revolutionizing the Gaming Industry: Blockchain and the Power of Digital Asset Ownership</h2>
+                <p>The gaming industry has always been at the forefront of innovation, pushing boundaries and creating immersive experiences for players.</p>
                 <div class="date mt-4 mb-3">
                     <span>17 jan 2023</span> 
                 </div>
@@ -41,8 +41,8 @@ include_once $project_path.'common/head.php';
                     <img src="./images/596ef8d8bb44d578770b8d096001982395894c78-728x419.png">
                 </div>
                 <div class="card-content">
-                    <h2>How to Deploy Angular App to Google Play Store? Complete Guide</h2>
-                    <p>From shift in priorities to new approaches to sourcing talent, check out four of the top staff augmentation & outsourcing trends in 2023.</p>
+                <a href="Blog1php" ><h2>Understanding Blockchain Developer Roles: Frontend, Backend, Smart Contract, and More</h2></a>
+                    <p>As blockchain technology continues to revolutionize industries, understanding the roles of blockchain developers becomes crucial for entrepreneurs seeking blockchain services</p>
                     <div class="date mt-4 mb-3">
                         <span>17 jan 2023</span> 
                     </div>
@@ -53,8 +53,8 @@ include_once $project_path.'common/head.php';
                     <img src="./images/card-img-2.png">
                 </div>
                 <div class="card-content">
-                    <h2>How to Deploy Angular App to Google Play Store? Complete Guide</h2>
-                    <p>From shift in priorities to new approaches to sourcing talent, check out four of the top staff augmentation & outsourcing trends in 2023.</p>
+                    <h2>Pros and Cons of Freelance and In-House Blockchain Developers: Evaluating Hiring Options</h2>
+                    <p>Blockchain is a rapidly growing technology with a wide range of applications. From financial services to supply chain management, blockchain is transforming the way businesses operate.</p>
                     <div class="date mt-4 mb-3">
                         <span>17 jan 2023</span> 
                     </div>

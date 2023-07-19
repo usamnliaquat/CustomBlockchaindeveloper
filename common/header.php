@@ -5,6 +5,7 @@
       <div class="navigation">
         <nav>
           <ul>
+                 <li><a href="index.php">Hone</a></li>
             <li><a href="Contact-us.php">Contact-Us</a></li>
             <li><a href="Blog-box.php">Blog</a></li>
             <li><a href="About-us.php">About-Us</a></li>

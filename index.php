@@ -11,7 +11,7 @@ include_once $project_path.'common/head.php';
             <div class="row align-items-center flex-lg-row flex-column-reverse">
                 <div class="col-lg-6 col-md-12 col-sm-12">
                     <div class="banner-text">
-                    <h3>Innovative Blockchain solutions for the modern world.</h3>
+                <h3>Innovative Blockchain solutions for the modern world.</h3>
                     <p>At HireBlockchainDeveloper, we offer cutting-edge blockchain solutions and consulting services to help businesses stay ahead in the rapidly evolving digital landscape.</p>
                     <div class="btn">
                         <a href="form.php"><button>Hire Blockchain Expert</button></a>
@@ -34,7 +34,7 @@ include_once $project_path.'common/head.php';
         </div>
         <ul class="BRANDS-img">
             <li class="img-box"><img src="./images/johaners.png"></li>
-            <li class="img-box"><img src="./images/t-mobile-logo.png"></li>
+            <li class="img-box"><img src="./images/t-moble2.png"></li>
             <li class="img-box"><img src="./images/BRANDS-img7.svg"></li>
             <li class="img-box"><img src="./images/2 agnin.png"></li>
             <li class="img-box"><img src="./images/shipvagoo.png"></li>

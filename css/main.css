@@ -22046,6 +22046,105 @@ section.Blog-box .blog-card-box .card-box .card-content .date span {
     font-size: 14px;
   }
 }
+section.blog-menu {
+  width: 100%;
+  position: relative;
+}
+section.blog-menu .blog-img {
+  background-image: url(./images/antenna-cw-cj_nFa14-unsplash.jpg);
+  background-size: cover;
+  background-position: left bottom;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  width: 100%;
+}
+section.blog-menu .blog-img .blog-heading .blog-heading {
+  position: absolute;
+  z-index: 1;
+  left: 0;
+  right: 0;
+  width: 50%;
+  top: 50%;
+  margin: auto;
+}
+section.blog-menu .blog-img .blog-heading h2 {
+  font-size: 33px;
+  color: #3b3952;
+  line-height: 1.2;
+  margin-bottom: 20px;
+}
+@media (max-width: 991px) {
+  section.blog-menu .blog-img .blog-heading h2 {
+    font-size: 27px;
+  }
+}
+@media (max-width: 767px) {
+  section.blog-menu .blog-img .blog-heading h2 {
+    font-size: 25px;
+  }
+}
+@media (max-width: 579px) {
+  section.blog-menu .blog-img .blog-heading h2 {
+    font-size: 22px;
+  }
+}
+section.blog-menu .blog-text {
+  width: 100%;
+  padding-top: 40px;
+  margin: auto;
+  margin-bottom: 60px;
+}
+@media (max-width: 991px) {
+  section.blog-menu .blog-text {
+    width: 100%;
+  }
+}
+section.blog-menu .blog-text h2 {
+  font-size: 33px;
+  color: #3b3952;
+  line-height: 1.2;
+  margin-bottom: 20px;
+}
+@media (max-width: 991px) {
+  section.blog-menu .blog-text h2 {
+    font-size: 27px;
+  }
+}
+@media (max-width: 767px) {
+  section.blog-menu .blog-text h2 {
+    font-size: 25px;
+  }
+}
+@media (max-width: 579px) {
+  section.blog-menu .blog-text h2 {
+    font-size: 22px;
+  }
+}
+section.blog-menu .blog-text p {
+  color: #3b3952;
+  line-height: 28px;
+  opacity: 0.8;
+  margin-top: 48px;
+  margin-bottom: 48px;
+  font-size: 20px;
+}
+@media (max-width: 579px) {
+  section.blog-menu .blog-text p {
+    font-size: 16px;
+    line-height: 21px;
+  }
+}
+section.blog-menu .blog-text h3 {
+  font-size: 26px;
+  color: #3b3952;
+  line-height: 1.2;
+}
+@media (max-width: 579px) {
+  section.blog-menu .blog-text h3 {
+    font-size: 16px;
+  }
+}
 section.Contact-Us {
   width: 100%;
   padding: 70px 0;
