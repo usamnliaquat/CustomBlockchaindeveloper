@@ -297,9 +297,11 @@ img {
   background-position: 0px 0px;
   overflow: hidden;
   .banner-text {
-    margin-bottom: 20px;
-    text-align: center;
-    padding: 20px 0;
+    height: 620px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin: 0 30px;
 
     h3 {
       font-size: 18px;

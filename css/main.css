@@ -21503,9 +21503,11 @@ img.ful-width {
   overflow: hidden;
 }
 .banner .banner-text {
-  margin-bottom: 20px;
-  text-align: center;
-  padding: 20px 0;
+  height: 620px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  margin: 0 30px;
 }
 .banner .banner-text h3 {
   font-size: 18px;

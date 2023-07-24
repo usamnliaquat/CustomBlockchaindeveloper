@@ -6,7 +6,7 @@ include_once $project_path.'common/head.php';
         <?php
         include_once $project_path.'common/header.php';
         ?>
-        <div class="banner"  style="background:  url(images/blog-banner.jpg);" >
+        <div class="banner"  style="background:  url(../images/banner.jpg);" >
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12 col-md-12 col-sm-12">
@@ -23,8 +23,7 @@ include_once $project_path.'common/head.php';
 <section class="blog-menu">
     <div class="container">
     <div class="blog-text">
-        <h3>Harnessing the Vital Role of Full-Stack Development in Business Growth</h3>
-    
+
         <p>Blockchain technology has emerged as a transformative force, revolutionizing various industries beyond its association with cryptocurrency. With its underlying principles of decentralization, transparency, and security, blockchain has the potential to reshape the way businesses operate.</p>
     <p>In this blog post, we will explore how blockchain impacts startups, small businesses, established companies, consulting firms, blockchain companies and blockchain projects. By delving into specific industries that have embraced blockchain, we will uncover the far-reaching effects of this technology.</p>
     <h3>Understanding Blockchain Technology</h3>
